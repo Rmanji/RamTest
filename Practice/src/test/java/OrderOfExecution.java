@@ -7,7 +7,8 @@ public class OrderOfExecution {
 	@Test(invocationCount=3)
 	public void Method1() {
 	
-	System.out.println("Method1 execution");	
+	System.out.println("Method1 execution");
+	System.out.println("Method1 testinvocation execution");
 	
 	}
 	
