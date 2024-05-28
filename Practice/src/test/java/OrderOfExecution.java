@@ -8,7 +8,7 @@ public class OrderOfExecution {
 	public void Method1() {
 	
 	System.out.println("Method1 execution");
-	//System.out.println("Method1 testinvocation execution");
+	System.out.println("Method1 testinvocation execution");
 	
 	}
 	
