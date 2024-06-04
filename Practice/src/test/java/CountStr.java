@@ -8,7 +8,7 @@ public class CountStr {
   
   char ch[]=new char[str1.length()];
   int count=0;
-  
+  //System.out.println("Adding newline");
   
   for(int i=0;i<str1.length();i++)
   {
